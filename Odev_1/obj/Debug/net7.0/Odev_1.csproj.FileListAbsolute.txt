@@ -1,0 +1,14 @@
+C:\Users\merve\Desktop\Radore Bootcamp\3.08.2024\Odev_1\Odev_1\bin\Debug\net7.0\Odev_1.exe
+C:\Users\merve\Desktop\Radore Bootcamp\3.08.2024\Odev_1\Odev_1\bin\Debug\net7.0\Odev_1.deps.json
+C:\Users\merve\Desktop\Radore Bootcamp\3.08.2024\Odev_1\Odev_1\bin\Debug\net7.0\Odev_1.runtimeconfig.json
+C:\Users\merve\Desktop\Radore Bootcamp\3.08.2024\Odev_1\Odev_1\bin\Debug\net7.0\Odev_1.dll
+C:\Users\merve\Desktop\Radore Bootcamp\3.08.2024\Odev_1\Odev_1\bin\Debug\net7.0\Odev_1.pdb
+C:\Users\merve\Desktop\Radore Bootcamp\3.08.2024\Odev_1\Odev_1\obj\Debug\net7.0\Odev_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merve\Desktop\Radore Bootcamp\3.08.2024\Odev_1\Odev_1\obj\Debug\net7.0\Odev_1.AssemblyInfoInputs.cache
+C:\Users\merve\Desktop\Radore Bootcamp\3.08.2024\Odev_1\Odev_1\obj\Debug\net7.0\Odev_1.AssemblyInfo.cs
+C:\Users\merve\Desktop\Radore Bootcamp\3.08.2024\Odev_1\Odev_1\obj\Debug\net7.0\Odev_1.csproj.CoreCompileInputs.cache
+C:\Users\merve\Desktop\Radore Bootcamp\3.08.2024\Odev_1\Odev_1\obj\Debug\net7.0\Odev_1.dll
+C:\Users\merve\Desktop\Radore Bootcamp\3.08.2024\Odev_1\Odev_1\obj\Debug\net7.0\refint\Odev_1.dll
+C:\Users\merve\Desktop\Radore Bootcamp\3.08.2024\Odev_1\Odev_1\obj\Debug\net7.0\Odev_1.pdb
+C:\Users\merve\Desktop\Radore Bootcamp\3.08.2024\Odev_1\Odev_1\obj\Debug\net7.0\Odev_1.genruntimeconfig.cache
+C:\Users\merve\Desktop\Radore Bootcamp\3.08.2024\Odev_1\Odev_1\obj\Debug\net7.0\ref\Odev_1.dll
